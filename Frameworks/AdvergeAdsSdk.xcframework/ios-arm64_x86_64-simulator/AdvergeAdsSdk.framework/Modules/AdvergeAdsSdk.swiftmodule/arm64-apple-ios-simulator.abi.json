@@ -17287,13 +17287,13 @@
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/mediation\/adverge\/AdvergeBannerAd.swift",
       "kind": "StringLiteral",
       "offset": 4582,
-      "length": 35,
-      "value": "\"https:\/\/adreq.adster.tech\/v1\/rapi\""
+      "length": 36,
+      "value": "\"https:\/\/adreq.adverge.tech\/v1\/rapi\""
     },
     {
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/mediation\/adverge\/AdvergeBannerAd.swift",
       "kind": "StringLiteral",
-      "offset": 4657,
+      "offset": 4658,
       "length": 10,
       "value": "\"\/v1\/rapi\""
     },
@@ -18981,55 +18981,55 @@
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/mediation\/remoteConfig\/RemoteConfigModels.swift",
       "kind": "StringLiteral",
       "offset": 6760,
-      "length": 8,
-      "value": "\"adster\""
+      "length": 9,
+      "value": "\"adverge\""
     },
     {
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/mediation\/remoteConfig\/RemoteConfigModels.swift",
       "kind": "StringLiteral",
-      "offset": 6794,
-      "length": 15,
-      "value": "\"adster_direct\""
+      "offset": 6795,
+      "length": 16,
+      "value": "\"adverge_direct\""
     },
     {
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/mediation\/remoteConfig\/RemoteConfigModels.swift",
       "kind": "StringLiteral",
-      "offset": 6829,
+      "offset": 6831,
       "length": 9,
       "value": "\"liftoff\""
     },
     {
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/mediation\/remoteConfig\/RemoteConfigModels.swift",
       "kind": "StringLiteral",
-      "offset": 6854,
+      "offset": 6856,
       "length": 5,
       "value": "\"jio\""
     },
     {
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/mediation\/remoteConfig\/RemoteConfigModels.swift",
       "kind": "StringLiteral",
-      "offset": 6878,
+      "offset": 6880,
       "length": 8,
       "value": "\"inmobi\""
     },
     {
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/mediation\/remoteConfig\/RemoteConfigModels.swift",
       "kind": "StringLiteral",
-      "offset": 6904,
+      "offset": 6906,
       "length": 7,
       "value": "\"unity\""
     },
     {
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/mediation\/remoteConfig\/RemoteConfigModels.swift",
       "kind": "StringLiteral",
-      "offset": 6944,
+      "offset": 6946,
       "length": 22,
       "value": "\"headerBiddingAdapter\""
     },
     {
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/mediation\/remoteConfig\/RemoteConfigModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 10484,
+      "offset": 10486,
       "length": 2,
       "value": "59"
     },
@@ -19078,7 +19078,7 @@
     {
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/mediation\/remoteConfig\/RemoteConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 19299,
+      "offset": 19303,
       "length": 13,
       "value": "\"[Targeting]\""
     },
@@ -19394,29 +19394,29 @@
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/APP_CONSTANT.swift",
       "kind": "StringLiteral",
       "offset": 167,
-      "length": 94,
-      "value": "\"https:\/\/storage.googleapis.com\/remote-config-orchestration-sdk\/ios\/com_adster_usdk_1.0.0.txt\""
+      "length": 95,
+      "value": "\"https:\/\/storage.googleapis.com\/remote-config-orchestration-sdk\/ios\/com_adverge_usdk_1.0.0.txt\""
     },
     {
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/APP_CONSTANT.swift",
       "kind": "StringLiteral",
-      "offset": 308,
-      "length": 106,
-      "value": "\"https:\/\/storage.googleapis.com\/remote-config-orchestration-sdk\/ios\/unencrypted_com_adster_usdk_1.0.0.txt\""
+      "offset": 309,
+      "length": 107,
+      "value": "\"https:\/\/storage.googleapis.com\/remote-config-orchestration-sdk\/ios\/unencrypted_com_adverge_usdk_1.0.0.txt\""
     },
     {
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/APP_CONSTANT.swift",
       "kind": "StringLiteral",
-      "offset": 461,
+      "offset": 463,
       "length": 87,
       "value": "\"ij3ehrwbefid9eu3h2jwrfuidiehw3jb2wfruidbgihrejbrw3efruioSDHUIAHDFUIIUWHR#IRHIOWNEIRO#\""
     },
     {
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/APP_CONSTANT.swift",
       "kind": "StringLiteral",
-      "offset": 584,
-      "length": 149,
-      "value": "\"https:\/\/adreq.adster.tech\/v1\/rapi?ifa=f4c012b3-eef9-4f35-9208-110f35a63d1c&bundle=com.adster.msdk&placement_id=%@&lang=te&adslot_type=banner&nads=1\""
+      "offset": 586,
+      "length": 151,
+      "value": "\"https:\/\/adreq.adverge.tech\/v1\/rapi?ifa=f4c012b3-eef9-4f35-9208-110f35a63d1c&bundle=com.adverge.msdk&placement_id=%@&lang=te&adslot_type=banner&nads=1\""
     },
     {
       "filePath": "\/Users\/adster\/Desktop\/Github\/Adverge\/ios-sdk\/AdvergeAdsSdk\/AdvergeAdsSdk\/AdvergeSDK\/Helper.swift",
