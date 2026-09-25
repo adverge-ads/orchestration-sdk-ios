@@ -1,0 +1,6 @@
+framework module AdvergeAdsSdk {
+  umbrella header "AdvergeAdsSdk.h"
+  export *
+
+  module * { export * }
+}
